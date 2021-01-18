@@ -12,6 +12,3 @@ let drehzahl = 0
 drehzahl = 30
 basic.showIcon(IconNames.Heart)
 PCA9685.init(64, 0)
-basic.forever(function () {
-	
-})
